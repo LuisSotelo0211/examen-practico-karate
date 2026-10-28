@@ -1,0 +1,6 @@
+{
+  "recipientId": "#(receptor.id)",
+  "amount": 450.00,
+  "description": "Pago de Servicios",
+  "categoryId": "cat_food_1"
+}

@@ -1,0 +1,6 @@
+{
+  "phone": "#(celular)",
+  "fullName": "#(nombre)",
+  "email": "#(correo)",
+  "pin": "#(pin)"
+}
